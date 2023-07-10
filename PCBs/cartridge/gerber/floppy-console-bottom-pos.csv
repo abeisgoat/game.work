@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10uF,C_0603_1608Metric,-43.434,56.134,180,bottom
+C2,0.1uf,C_0402_1005Metric,-43.434,54.134,180,bottom
+J1,Micro_SD_Card_Det,HRS_DM3CS-SF,-41.91,66.04,180,bottom
+R3,47k,R_0402_1005Metric,-26.67,82.55,90,bottom
+R4,47k,R_0402_1005Metric,-29.21,82.55,90,bottom
+R5,47k,R_0402_1005Metric,-31.75,82.55,90,bottom
+R6,47k,R_0402_1005Metric,-36.83,82.55,90,bottom
+R7,47k,R_0402_1005Metric,-39.37,82.55,90,bottom

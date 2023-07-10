@@ -1,0 +1,6 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"","","",3.810000,15.240000,0.000000,top
+"","","",3.810000,85.090000,0.000000,top
+"","","",85.090000,13.970000,0.000000,top
+"REF**","Fiducial_1mm_Mask2mm","Fiducial_1mm_Mask2mm",85.090000,83.820000,0.000000,top
+"U1","connector_fingers","FLOPPY_CART_EDGE",12.700000,92.710000,0.000000,top
